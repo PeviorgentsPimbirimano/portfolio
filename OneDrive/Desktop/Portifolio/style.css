@@ -186,6 +186,7 @@ nav ul li a:hover::after{
     box-shadow: 0 10px  rgb(8, 8, 8);
     transition: background-color 0.5s, transform 0.5s;
 }
+/*  */
 .services-list div a{
     text-decoration: none;
     color: white;
